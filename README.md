@@ -12,7 +12,7 @@ What is the **Happy Planet**.
 
 <img src="not_that_happy_planet.jpeg" width="33%" />
 
-f you want to know what is the **Happy Planet**.
+If you want to know what is the **Happy Planet**.
 
   <img src="idiot.jpeg" width="33%" />
 
